@@ -155,7 +155,7 @@
     .logout-btn:hover {
         background: #fff1f2;
         color: #e11d48;
-        transform: translateX(6px);
+        transform: translateX(6px); 
     }
 
     .logout-btn:active {
