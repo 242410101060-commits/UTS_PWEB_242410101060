@@ -20,8 +20,3 @@ Website ini dibuat menggunakan:
 - Deposit
 - Profile
 - Logout
-
-## Cara Menjalankan
-
-```bash
-php artisan serve
