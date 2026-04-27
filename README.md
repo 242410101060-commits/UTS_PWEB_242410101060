@@ -1,4 +1,4 @@
-![Screenshot](image.png)
+<img src="tampilan.jpeg" width="700">
 
 # ORCHARD PANEL
 
