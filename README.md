@@ -1,15 +1,27 @@
-![Profile](image.png)
+![Screenshot](image.png)
 
-Website yang saya buat adalah ORCHARD PANEL, yaitu sebuah website untuk pengelolaan layanan digital (SMM Panel) seperti pembelian followers, like, dan layanan media sosial lainnya.
+# ORCHARD PANEL
 
-Website ini dibuat menggunakan Framework Laravel dengan konsep MVC (Model-View-Controller) dan menggunakan Blade Template untuk tampilan.
-Data yang digunakan masih berupa array (dummy) tanpa database.
+## Deskripsi
 
-Fitur utama pada website ini meliputi:
+Website ini adalah **ORCHARD PANEL**, yaitu sistem untuk pengelolaan layanan digital seperti pembelian followers, like, dan layanan media sosial lainnya.
 
--Login pengguna
--Dashboard (menampilkan saldo, pembelian, dan status akun)
--Pengelolaan pesanan
--Deposit
--Profile
--Logout
+Website ini dibuat menggunakan:
+- Laravel (Framework PHP)
+- Konsep MVC (Model View Controller)
+- Blade Template
+- CSS
+
+## Fitur
+
+- Login
+- Dashboard
+- Pengelolaan Pesanan
+- Deposit
+- Profile
+- Logout
+
+## Cara Menjalankan
+
+```bash
+php artisan serve
